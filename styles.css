@@ -1,0 +1,22 @@
+#boatModalViewer{
+    height: 350px;
+    width: 100% !important;
+}
+#boatModal{
+    backdrop-filter: blur(3px);
+}
+#boatModal .modal-content{
+    background-color: #282828;
+}
+
+#boatModal .modal-dialog {
+    top: 22%;
+}
+
+#boatModal #modalDismiss{
+    display: none;
+}
+
+.modal-dialog #content_2{
+    display: none;
+}
